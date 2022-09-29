@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Chess4Android</string>
+    <string name="daily_puzzle">Daily Puzzle</string>
+    <string name="chess_royale" translatable="false">Chess Royale</string>
+    <string name="logo_for_the_app">logo for the app</string>
+    <string name="dailyPuzzleCredits">Daily Puzzle provided by Lichess.org</string>
+    <string name="appCredits">This app was made by</string>
+    <string name="github">Github link to project</string>
+    <string name="lichess_website">Lichess Website</string>
+    <string name="restart_daily_challenge">Restart Daily Challenge</string>
+    <string name="about">About</string>
+    <string name="puzzle_complete">Puzzle Complete!</string>
+    <string name="list_of_daily_puzzles">List of daily puzzles</string>
+    <string name="puzzle_already_complete">Puzzle already complete!</string>
+    <string name="puzzle_complete_status">Complete!</string>
+    <string name="puzzle_incomplete_status">Incomplete!</string>
+    <string name="puzzle_already_complete_description">This puzzle has already been completed. Do you want to retry the challenge or check solution?</string>
+    <string name="solution">Solution</string>
+    <string name="Puzzle">Puzzle</string>
+    <string name="new_puzzle_confirmation">Are you sure you want to start a new daily puzzle?</string>
+    <string name="confirmation">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="history">History</string>
+    <string name="daily">Daily</string>
+    <string name="next_move">Next Move</string>
+    <string name="play_online">Play Online</string>
+    <string name="play_local">Play Local</string>
+    <string name="welcome">Welcome!</string>
+    <string name="todo">Not implemented yet</string>
+    <string name="enter">Enter</string>
+    <string name="black_win">Black pieces won</string>
+    <string name="white_win">White pieces won</string>
+</resources>
